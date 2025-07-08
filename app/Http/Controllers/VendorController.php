@@ -1,5 +1,5 @@
 <?php
-
+// vendor
 namespace App\Http\Controllers;
 
 use App\Models\Vendor;
