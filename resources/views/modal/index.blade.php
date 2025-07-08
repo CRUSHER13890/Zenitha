@@ -1,6 +1,6 @@
 <x-app-layout :title="'Modal'">
     <div class="container-fluid">
-
+<!-- indexmodal -->
         <div class="row">
             <div class="col-12">
                 <div class="card shadow mb-4">

@@ -1,6 +1,6 @@
 <x-app-layout :title="'Edit Pengeluaran'">
     <div class="container-fluid">
-
+<!-- editpengeluaran -->
         <div class="row">
             <div class="col-12">
                 <div class="card">

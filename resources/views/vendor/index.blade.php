@@ -1,6 +1,6 @@
 <x-app-layout :title="'Vendor'">
     <div class="container-fluid">
-
+<!-- indexvendor -->
         <div class="row">
             <div class="col-12">
                 <div class="card shadow mb-4">

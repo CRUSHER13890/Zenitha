@@ -1,6 +1,6 @@
 <x-app-layout :title="'Tambah Modal'">
     <div class="container-fluid">
-
+<!-- createmodal -->
         <div class="row">
             <div class="col-12">
                 <div class="card">

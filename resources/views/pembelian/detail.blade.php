@@ -7,7 +7,7 @@
             </div>
         @endif
         <!-- Akhir alert success -->
-
+<!-- detailpembelian -->
         <!-- Alert success -->
         @if ($message = Session::get('error'))
             <div class="alert alert-warning">

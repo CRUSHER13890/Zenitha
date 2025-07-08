@@ -1,6 +1,6 @@
 <x-app-layout :title="'Tambah Pengeluaran'">
     <div class="container-fluid">
-
+<!-- createpengeluaran -->
         <div class="row">
             <div class="col-12">
                 <div class="card">

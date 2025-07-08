@@ -1,6 +1,6 @@
 <x-app-layout :title="'Edit Modal'">
     <div class="container-fluid">
-
+<!-- editmodal -->
         <div class="row">
             <div class="col-12">
                 <div class="card">

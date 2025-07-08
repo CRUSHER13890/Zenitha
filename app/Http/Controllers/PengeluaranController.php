@@ -1,5 +1,5 @@
 <?php
-
+// pengeluaran
 namespace App\Http\Controllers;
 
 use App\Models\Coa;

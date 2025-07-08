@@ -1,6 +1,6 @@
 <x-app-layout :title="'Pembelian'">
     <div class="container-fluid">
-
+<!-- indexpembelian -->
         <div class="row">
             <div class="col-12">
                 <div class="card shadow mb-4">

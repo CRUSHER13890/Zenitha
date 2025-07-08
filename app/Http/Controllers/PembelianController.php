@@ -1,5 +1,5 @@
 <?php
-
+// pembelian
 namespace App\Http\Controllers;
 
 use App\Models\Barang;

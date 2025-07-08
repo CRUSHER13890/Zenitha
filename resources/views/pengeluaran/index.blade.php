@@ -1,6 +1,6 @@
 <x-app-layout :title="'Pengeluaran'">
     <div class="container-fluid">
-
+<!-- indexpengeluaran -->
         <div class="row">
             <div class="col-12">
                 <div class="card shadow mb-4">
