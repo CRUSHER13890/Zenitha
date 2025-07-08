@@ -1,3 +1,4 @@
+<!-- dashboard -->
 <x-app-layout>
     <div class="container-fluid">
         <h4 class="mb-4 fw-bold text-primary">Dashboard</h4>

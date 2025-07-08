@@ -1,3 +1,4 @@
+<!-- pendapaatan.i -->
 <x-app-layout :title="'Pendapatan Jasa'">
     <div class="container-fluid">
 

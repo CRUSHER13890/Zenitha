@@ -1,3 +1,4 @@
+<!-- reservasi.i -->
 <x-app-layout :title="'Reservasi'">
     <div class="container-fluid">
 

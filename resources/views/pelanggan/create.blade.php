@@ -1,3 +1,4 @@
+<!-- pelanggan.c -->
 <x-app-layout :title="'Tambah Pelanggan'">
     <div class="container-fluid">
 

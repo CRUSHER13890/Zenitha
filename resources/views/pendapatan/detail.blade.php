@@ -1,3 +1,4 @@
+<!-- pendapatan.d -->
 <x-app-layout :title="'Detail Pendapatan Jasa'">
     <div class="container-fluid">
         <!-- Alert messages -->

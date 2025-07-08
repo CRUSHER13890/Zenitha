@@ -1,3 +1,4 @@
+<!-- pendapatan.c -->
 <x-app-layout :title="'Tambah Pendapatan Jasa'">
     <div class="container-fluid">
 

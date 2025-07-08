@@ -1,5 +1,5 @@
 <?php
-
+// pelanggan c
 namespace App\Http\Controllers;
 
 use App\Models\Pelanggan;

@@ -1,3 +1,4 @@
+<!-- pelanggan.i -->
 <x-app-layout :title="'Pelanggan'">
     <div class="container-fluid">
 

@@ -1,3 +1,4 @@
+<!-- reservasi.c -->
 <x-app-layout :title="'Tambah Reservasi'">
     <div class="container-fluid">
 
