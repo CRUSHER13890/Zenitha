@@ -1,4 +1,5 @@
 <?php
+// masdat barang
 
 namespace App\Http\Controllers;
 

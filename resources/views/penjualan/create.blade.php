@@ -64,3 +64,4 @@
 
     </div> <!-- container -->
 </x-app-layout>
+<!-- create pelanggan -->

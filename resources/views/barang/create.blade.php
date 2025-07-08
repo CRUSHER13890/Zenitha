@@ -334,3 +334,4 @@
     </script>
     @endpush
 </x-app-layout>
+<!-- create barang -->

@@ -129,3 +129,4 @@
         </div>
     </div>
 </x-app-layout>
+<!-- index barang -->

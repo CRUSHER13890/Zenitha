@@ -1,5 +1,5 @@
 <?php
-
+// barang
 namespace App\Models;
 
 use App\Models\Diskon;

@@ -388,3 +388,4 @@
         }
     </script>
 </x-app-layout>
+<!-- detail penjualan -->

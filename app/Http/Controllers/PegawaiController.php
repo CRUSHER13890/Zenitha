@@ -1,5 +1,5 @@
 <?php
-
+// masdat pegawai
 namespace App\Http\Controllers;
 
 use App\Models\Pegawai;

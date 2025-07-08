@@ -1,5 +1,5 @@
 <?php
-
+// transaksi penjualan
 namespace App\Http\Controllers;
 
 use App\Models\Coa;
