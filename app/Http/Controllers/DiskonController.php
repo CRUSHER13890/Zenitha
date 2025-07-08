@@ -1,5 +1,5 @@
 <?php
-
+// DiskonController.php
 namespace App\Http\Controllers;
 
 use Autocode;
